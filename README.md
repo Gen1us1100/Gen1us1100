@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **ML or web dev.**
 
-- 📫 How to reach me **coder.sam.1100@gmail.com**
-
 - ⚡ Fun fact **I know one thing that I know nothing.**
 
 <h3 align="left">Connect with me:</h3>
