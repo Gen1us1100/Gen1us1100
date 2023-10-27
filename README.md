@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👯 I’m looking to collaborate on **ML or web dev.**
+- 👯 I’m looking to collaborate on **ML, Flutter or web dev .**
 
 - ⚡ Fun fact **I know one thing that I know nothing.**
 
