@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **ML, Flutter or web dev .**
 
 - ⚡ Fun fact **I know one thing that I know nothing.**
-
+![](https://komarev.com/ghpvc/?username=gen1us1100)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sameergodse4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameergodse4" height="30" width="40" /></a>
